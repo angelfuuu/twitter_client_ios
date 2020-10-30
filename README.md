@@ -1,6 +1,6 @@
 # Project 3 - *Twitter*
 
-**Twitter** is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to read your tweets. Implemented using the Twitter API.
 
 Time spent: **4** hours spent in total
 
